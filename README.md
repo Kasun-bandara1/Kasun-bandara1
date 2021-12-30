@@ -3,12 +3,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 | <a href="https://t.me/SANTA_R1"><img src="https://te.legra.ph/file/8411e2871bb13e10de706.jpg" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       [kasun -❰❰ꪶසැන්ටා៚🇱🇰 ❱❱ ](https://t.me/SANTA_r1)                                                                                |
-| <a href="https://t.me/SANTA_R1"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+
 
 <!--
 **Kasun-bandara1/kasun-bandara1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
