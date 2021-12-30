@@ -4,6 +4,9 @@ You can use the website to generate badges: https://shields.io/
 -->
  <a href="https://t.me/SANTA_R1"><img src="https://te.legra.ph/file/8411e2871bb13e10de706.jpg" width="150px" height="150px" /></a> 
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=66FF00&lines=-%3E+kasun+bandara;-%3E+I+love+Dilmi+🦾.;-%3E+I+m+developing+bots.;-%3E+Github+Student)](https://git.io/typing-svg)
+
 •🌸I'm kasun bandara🌼         
 •💐(❰❰ꪶසැන්ටා៚🇱🇰 ❱❱)🥀        
 •🌻country - Sri Lanka 🇱🇰         
