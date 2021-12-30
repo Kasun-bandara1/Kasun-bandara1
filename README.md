@@ -7,11 +7,15 @@ You can use the website to generate badges: https://shields.io/
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=66FF00&lines=-%3E+kasun+bandara;-%3E+I+love+Dilmi+🦾.;-%3E+I+m+developing+bots.;-%3E+Github+Student)](https://git.io/typing-svg)
 
-•🌸I'm kasun bandara🌼         
-•💐(❰❰ꪶසැන්ටා៚🇱🇰 ❱❱)🥀        
-•🌻country - Sri Lanka 🇱🇰         
-•🌼city - kegalle🌺🎋       
-•🍀Age - 17 🚶 
+•📲 I'm kasun bandara🍎
+         
+•📲 (❰❰ꪶසැන්ටා៚🇱🇰 ❱❱)🥀
+        
+•📲 country - Sri Lanka 🇱🇰
+         
+•📲 city - kegalle🌺🎋
+       
+•📲 Age - 17 🚶 
 
 <a href="https://t.me/Santa_r1"><img src="https://img.shields.io/badge/contact%20onTelegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
