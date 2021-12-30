@@ -3,6 +3,11 @@
 You can use the website to generate badges: https://shields.io/
 -->
  <a href="https://t.me/SANTA_R1"><img src="https://te.legra.ph/file/8411e2871bb13e10de706.jpg" width="150px" height="150px" /></a> 
+~ I'm kasun bandara (❰❰ꪶසැන්ටා៚🇱🇰 ❱❱)🥀
+~ country - Sri Lanka 🇱🇰
+~ city - kegalle 🎋
+~ Age - 16 🚶
+
 
 
 <!--
